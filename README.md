@@ -19,7 +19,7 @@
 ## 🏆 "WORLD'S BEST BOSS" - I MEAN, DEVELOPER! 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1sME2UVdXXhSw/giphy.gif" width="300"/>
+  <img src="GIFS\prison-mike.png" width="300"/>
   
   ### *"I DECLARE... ARTIFICIAL INTELLIGENCE!"* 🤖
 </div>
