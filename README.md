@@ -123,7 +123,7 @@ I'm **Vishnu S**, and just like Michael Scott declared bankruptcy, I'm declaring
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l2SpMUEMRJkkqBcuk/giphy.gif" width="300"/>
+  <img src="GIFS\mc1.gif" width="300"/>
 </div>
 
 ---
