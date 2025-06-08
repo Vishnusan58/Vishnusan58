@@ -72,7 +72,7 @@ I'm **Vishnu S**, and just like Michael Scott declared bankruptcy, I'm declaring
 ## 💻 "ASSISTANT TO THE REGIONAL MANAGER" TECH STACK
 
 <div align="center">
-  <img src="https://media.giphy.com/media/UI1qLkl9hekmoJWduz/giphy.gif" width="400"/>
+  <img src="[https://media.giphy.com/media/UI1qLkl9hekmoJWduz/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG50YnExMHR0Z3R3djc0a2NqOTh4NGp0MHhkenQ2NTZibXAwbzEzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/McgfJZSsoWqFsd3XS2/giphy.gif)" width="400"/>
   
   ### *"I'm not usually the butt of the joke. I'm usually the face of the joke!"*
 </div>
