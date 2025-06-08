@@ -43,7 +43,7 @@ I'm **Vishnu S**, and just like Michael Scott declared bankruptcy, I'm declaring
 ## 🥇 "DUNDIE AWARD WINNER" CERTIFICATIONS 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5LU6ZcEGBbhVS/giphy.gif" width="350"/>
+  <img src="GIFS\giphy.gif" width="350"/>
   
   ### *"I have won numerous awards... in my mind!"* 🏆
 </div>
